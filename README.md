@@ -1,2 +1,2 @@
 # hello-judy
-Navigation Portal fir Judy
+Navigation Portal for Judy
